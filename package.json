@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AngeloDeveloper/libteste/issues"
   },
-  "homepage": "https://github.com/AngeloDeveloper/libteste#readme"
+  "homepage": "https://github.com/AngeloDeveloper/libteste#readme",
+  "publishConfig": {
+  "registry":"https://npm.pkg.github.com"
+},
 }
