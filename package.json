@@ -1,15 +1,12 @@
 {
-  "name": "libteste",
+  "name": "@angelodeveloper/libteste",
   "version": "1.0.0",
   "description": "lib para teste de publicação",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AngeloDeveloper/libteste.git"
-  },
+  "repository": "git://github.com/AngeloDeveloper/libteste.git",
   "author": "“Angelo <“angabrielsr@gmail.com”>",
   "license": "SEE LICENSE IN License.txt",
   "bugs": {
@@ -17,6 +14,6 @@
   },
   "homepage": "https://github.com/AngeloDeveloper/libteste#readme",
   "publishConfig": {
-  "registry":"https://npm.pkg.github.com"
-}
+    "registry": "https://npm.pkg.github.com"
+  }
 }
