@@ -18,5 +18,5 @@
   "homepage": "https://github.com/AngeloDeveloper/libteste#readme",
   "publishConfig": {
   "registry":"https://npm.pkg.github.com"
-},
+}
 }
